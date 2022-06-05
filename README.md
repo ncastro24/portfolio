@@ -1,2 +1,2 @@
-# ranroru-portfolio
- Personal website for my art portfolio
+# Nayeli Castro's portfolio
+ Website to show off my code.
